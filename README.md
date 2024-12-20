@@ -17,6 +17,7 @@ Eng. Amany
 3. [Technologies Used](#technologies-used)
 4. [Results](#results)
 5. [File Structure](#file-structure)
+6. [Notebook on Kaggle](#notebook-on-kaggle)
 
 ## Introduction
 
@@ -92,3 +93,7 @@ Image-Processing-Final-Project/
 - **Notebook/**: Folder for Jupyter notebooks used for testing and prototyping different parts of the pipeline.
 
 - **Report/**: Contains documentation, reports, and presentations related to the project.
+
+## Notebook on Kaggle
+
+You can view and interact with the project notebook on Kaggle: [Image Processing Final Project](https://www.kaggle.com/code/fareshazem/image-processing-final-project)
